@@ -1,0 +1,3 @@
+import GeoLoad
+
+GeoLoad.Geoload()
